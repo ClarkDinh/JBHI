@@ -1,0 +1,51 @@
+Technique,Frequency
+Random Forest,22
+Convolutional Neural Network,24
+Support Vector Machine,18
+Extreme Gradient Boosting,12
+Logistic Regression,11
+Graph Convolutional Network,9
+Deep Neural Network,8
+BiLSTM,6
+Graph Attention Networks,6
+Graph Neural Network,6
+Multilayer Perceptron,6
+Long Short-Term Memory,5
+Recurrent Neural Network,5
+Attention mechnism,4
+Bidirectional Encoder Representations from Transformers,4
+Decision Tree,4
+LASSO,4
+Non-negative Matrix Factorization,4
+PCA,4
+ResNet,4
+Transfer learning,4
+Transformer,4
+UMAP,4
+AlexNet,3
+AlphaFold2,3
+Gated Recurrent Unit,3
+Naive Bayes,3
+U-Net,3
+Canonical Correlation Analysis,2
+Clustering,2
+Consensus Clustering,2
+Contrastive learning,2
+Deep Graph Infomax,2
+Feedforward Neural Network,2
+Gene Set Enrichment Analysis,2
+Gradient Boosting,2
+Gradient Boosting Decision Tree,2
+Graph autoencoder,2
+Graph Isomorphism Networ,2
+GraphDTA,2
+K-means,2
+K-Nearest Neighbors,2
+Linear Models for Microarray Data,2
+Linear Regression,2
+Named Entity Recognition,2
+node2vec,2
+Position-Specific Scoring Matrix,2
+Significance Analysis of Microarrays,2
+Transform-Restrained Rosetta 2,2
+DNABERT,2
